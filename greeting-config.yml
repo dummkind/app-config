@@ -1,6 +1,7 @@
 security:
-  basic:
-    enabled: false # turn off securing our application endpoints
+  user:
+    name: login
+    password: start
 
 management:
   security:
