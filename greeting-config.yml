@@ -1,7 +1,7 @@
 security:
-  user:
-    name: login
+  basic:
+    enabled: false # turn off securing our application endpoints
 
-security:
-  user:
-    password: start
+management:
+  security:
+    enabled: false # turn off securing the actuator endpoints
