@@ -1,0 +1,7 @@
+security:
+  user:
+    name: login
+
+security:
+  user:
+    password: start
